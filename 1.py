@@ -13,7 +13,6 @@ lista_libros = [
         "ISBN": 9788498357714, "paginas": 557, "precio": 368.000, "categoria": "Ciencias"}
 ]
 ## filtros usando filter y list comprehension
-
 ## Libros con precio mayor a $45.000
 
 # usando filter
